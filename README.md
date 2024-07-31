@@ -3,7 +3,7 @@
 ## Overview
 This project utilizes the Energy Efficiency dataset from the UCI Machine Learning Repository to analyze energy efficiency based on various building characteristics. 
 
-You can find the App on streamlit here: https://energycostpredictor.streamlit.app/
+Here you will [find the app on streamlit](https://energycostpredictor.streamlit.app/).
 
 The original study simulated 12 different building shapes in Ecotect, varying by surface area, overall height among other parameters. The dataset consists of 768 samples and 8 features, aiming to predict two real-valued responses: Heating Load (Y1) and Cooling Load (Y2).
 
