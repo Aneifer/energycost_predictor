@@ -36,7 +36,9 @@ The web interface will guide you to input various house characteristics, and pro
 ## Requirements
 For the required Python packages, please refer to requirements.txt. Install these packages using:
 
+```bash
 pip install -r requirements.txt
+```
 
 ## Acknowledgments
 Special thanks to the creators of the Energy Efficiency dataset at the UCI Machine Learning Repository for providing this valuable resource to the community.
